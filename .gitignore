@@ -4,9 +4,9 @@ __pycache__/
 *.so
 
 # Entornos virtuales
-venv/
+workshop_01/
 env/
-.venv/
+.workshop_01/
 .env/
 
 # Configuraciones de herramientas
