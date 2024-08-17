@@ -23,9 +23,15 @@ coverage.xml
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Archivos de log y bases de datos
+# Archivos de log
 *.log
+
+# Archivos de base de datos SQLite
 *.sqlite3
+
+# Archivos relacionados con MongoDB
+*.mongodb
+
 
 # Datos grandes o temporales
 data/
