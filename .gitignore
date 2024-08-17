@@ -1,0 +1,65 @@
+# Archivos compilados de Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Configuraciones de herramientas
+*.pylint.d/
+*.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Archivos de log y bases de datos
+*.log
+*.sqlite3
+
+# Datos grandes o temporales
+data/
+datasets/
+*.h5
+*.csv
+*.tsv
+*.pkl
+*.joblib
+
+# Archivos de modelos de ML
+*.h5
+*.hdf5
+*.pb
+*.pt
+*.pth
+*.ckpt
+
+# Archivos creados por sistemas operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Dependencias instaladas
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Claves API o configuraciones sensibles
+.env
+*.env
+*.secret
