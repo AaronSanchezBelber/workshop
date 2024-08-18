@@ -25,6 +25,9 @@ coverage.xml
 
 # Archivos de log
 *.log
+.logs
+
+networksecurity.egg-info
 
 # Archivos de base de datos SQLite
 *.sqlite3
