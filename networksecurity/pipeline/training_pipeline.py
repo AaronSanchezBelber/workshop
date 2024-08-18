@@ -85,5 +85,3 @@ class TrainingPipeline:
             print(data_ingestion_artifact)
         except Exception as e:
             raise NetworkSecurityException(e,sys)
-        
-    
