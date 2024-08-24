@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.19282726905217185
+DNSRecord:
+  drift_status: false
+  p_value: 0.9999999999893581
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.5556286309673272
+Favicon:
+  drift_status: false
+  p_value: 0.9999999999999661
+Google_Index:
+  drift_status: false
+  p_value: 1.0
+HTTPS_token:
+  drift_status: false
+  p_value: 0.45196081130209664
+Iframe:
+  drift_status: false
+  p_value: 1.0
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9999998276851227
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.9443077816280203
+Page_Rank:
+  drift_status: false
+  p_value: 0.9509356008253727
+Prefix_Suffix:
+  drift_status: false
+  p_value: 1.0
+Redirect:
+  drift_status: false
+  p_value: 0.7390826452840746
+Request_URL:
+  drift_status: false
+  p_value: 1.0
+Result:
+  drift_status: false
+  p_value: 0.9999999632397697
+RightClick:
+  drift_status: false
+  p_value: 1.0
+SFH:
+  drift_status: false
+  p_value: 0.1299287452601564
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.6704493956305451
+Shortining_Service:
+  drift_status: false
+  p_value: 0.9962125273091531
+Statistical_report:
+  drift_status: false
+  p_value: 0.6611934812928684
+Submitting_to_email:
+  drift_status: false
+  p_value: 1.0
+URL_Length:
+  drift_status: false
+  p_value: 0.995459405366065
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.9999970482063945
+age_of_domain:
+  drift_status: false
+  p_value: 0.9998558123347004
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.6704493956305522
+having_At_Symbol:
+  drift_status: false
+  p_value: 0.8740041201752636
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9925057532803855
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.9981180654706991
+on_mouseover:
+  drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  drift_status: false
+  p_value: 1.0
+port:
+  drift_status: false
+  p_value: 0.9999999632397697
+web_traffic:
+  drift_status: false
+  p_value: 0.9995098927001664
