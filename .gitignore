@@ -3,11 +3,14 @@
 __pycache__/
 *.so
 
+./Artifacts
 # Entornos virtuales
 workshop_01/
 env/
 .workshop_01/
 .env/
+
+__pycache__
 
 # Configuraciones de herramientas
 *.pylint.d/
