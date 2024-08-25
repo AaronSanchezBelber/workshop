@@ -3,7 +3,7 @@
 __pycache__/
 *.so
 
-./Artifacts
+Artifacts
 # Entornos virtuales
 workshop_01/
 env/
