@@ -1,22 +1,16 @@
-ipykernel 
-jupyter
-
 python-dotenv
-dotenv
-
 pandas
 numpy
-
-scikit-learn
-
 pymongo
 certifi
-
 pymongo[srv]
-
+scikit-learn
 dill
 pyyaml
-
 xgboost
+fastapi
+uvicorn
+ipykernel
+apache-airflow
 
-# -e .
+-e .
