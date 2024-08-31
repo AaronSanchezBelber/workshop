@@ -14,6 +14,6 @@ ipykernel
 apache-airflow
 mlflow
 dvc
-dotenv
+
 
 -e .
