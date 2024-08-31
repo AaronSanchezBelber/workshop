@@ -1,3 +1,4 @@
-#!bin/sh
+#Para eejcutar airflow
+!bin/sh
 nohup airflow scheduler &
 airflow webserver
