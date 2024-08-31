@@ -58,7 +58,7 @@ DATA_TRANSFORMATION_TRAIN_FILE_PATH: str = "train.npy"
 DATA_TRANSFORMATION_TEST_FILE_PATH: str = "test.npy"
 
 """
-Model Trainer related constant start with MODE TRAINER VAR NAME
+Model Trainer ralated constant start with MODE TRAINER VAR NAME
 """
 
 MODEL_TRAINER_DIR_NAME: str = "model_trainer"
@@ -77,3 +77,6 @@ MODEL_EVALUATION_REPORT_NAME= "report.yaml"
 
 MODEL_PUSHER_DIR_NAME = "model_pusher"
 MODEL_PUSHER_SAVED_MODEL_DIR = SAVED_MODEL_DIR
+
+TRAINING_BUCKET_NAME = "my-networksecurity"
+PREDICTION_BUCKET_NAME = "Network-dataSource"
